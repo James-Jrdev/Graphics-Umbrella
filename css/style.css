@@ -278,17 +278,36 @@ input[type=text], select {
 .aboutmain{
     padding-bottom: 85px;
 }
-
-
-
+.aboutmain h2{
+    border-bottom: 3px dotted gray;
+}
+.aboutmain p{
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.aboutmain img{
+    margin-bottom: 20px;
+}
+.aboutmain ul{
+    font-size: 14px;
+}
 
 
 
 
 /* New Page */
 
+.new{
+    padding-bottom: 75px;
+}
 
-
+.new h2{
+    border-bottom: 3px dotted gray;
+}
+.new p {
+    padding-bottom: 20px;
+    border-bottom: 3px dotted gray;
+}
 
 
 
