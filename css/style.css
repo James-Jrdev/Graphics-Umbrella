@@ -92,12 +92,20 @@ margin-top: 10px;
 
 
 .bncol2 ul{
-    text-align: center;
+    text-align: left;
+    padding: 5px;
+    list-style: none;
 }
 .bncol2 li{
     font-size: 16px;
     text-decoration: none;
 }
+.bncol2 a{
+color: black;
+}
+.bncol2 a:hover{
+    color: #4CAF50;
+    }
 
 
 
@@ -116,8 +124,7 @@ margin-top: 10px;
 
 
 
-
-
+/* Sign Up Newletter */
 input[type=text], select {
     width: 100%;
     padding: 12px 20px;
@@ -148,11 +155,6 @@ input[type=text], select {
     background-color: #f2f2f2;
     padding: 20px;
   }
-
-
-
-
-
 
 
 
